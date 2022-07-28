@@ -33,6 +33,10 @@
 		{
 			"Name": "HammUEr",
 			"Enabled": true
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": true
 		}
 	]
 }
